@@ -32,4 +32,4 @@ properties:
   DB_USER: transituser
   DB_PASSWORD: autoliv1234
      
-  revision : 14
+  revision : 15
